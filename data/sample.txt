@@ -1,0 +1,2 @@
+This is a sample text to count all the words present in this file
+A image based on the previously created spark image, used to create a spark master containers. We just need to configure the basics of the master, configure the master and web UI ports and use a bootstrap script that starts the spark-master service.
